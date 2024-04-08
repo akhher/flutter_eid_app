@@ -2,6 +2,19 @@
 
 App project in Ramadhan 1445 H.
 
+## Depenedncies
+
+- flutter_custom_clippers: ^2.1.0
+- confetti: ^0.7.0
+- flutter_launcher_icons: "^0.13.1"
+
+## Fonts
+
+- fonts:
+  - family: OleoScript
+    fonts:
+      - asset: OleoScript-Bold.ttf
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
