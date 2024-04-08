@@ -1,6 +1,6 @@
 # flutter_eid_app
 
-A new Flutter project.
+App project in Ramadhan 1445 H.
 
 ## Getting Started
 
